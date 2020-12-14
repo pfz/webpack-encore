@@ -1,6 +1,6 @@
 {
   "name": "@symfony/webpack-encore",
-  "version": "0.32.1",
+  "version": "0.33.0",
   "description": "Webpack Encore is a simpler way to integrate Webpack into your application",
   "main": "index.js",
   "scripts": {
@@ -63,8 +63,8 @@
     "@symfony/controllers": "file:fixtures/stimulus/controllers",
     "@symfony/mock-module": "file:fixtures/stimulus/mock-module",
     "@symfony/stimulus-bridge": "^1.0.0",
-    "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0-beta.3",
-    "@vue/babel-preset-jsx": "^1.0.0-beta.3",
+    "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
+    "@vue/babel-preset-jsx": "^1.0.0",
     "@vue/compiler-sfc": "^3.0.2",
     "autoprefixer": "^8.5.0",
     "babel-eslint": "^10.0.1",
@@ -85,7 +85,6 @@
     "less": "^3.11.3",
     "less-loader": "^6.2.0",
     "mocha": "^7.1.2",
-    "node-sass": "^4.5.3",
     "postcss-loader": "^4.0.0",
     "preact": "^8.2.1",
     "preact-compat": "^3.17.0",
@@ -101,7 +100,7 @@
     "url-loader": "^4.1.0",
     "vue": "^3.0.2",
     "vue-loader": "^16.1.0",
-    "vue-template-compiler": "^2.5",
+    "vue-template-compiler": "^2.5.0",
     "webpack-notifier": "^1.6.0",
     "zombie": "^6.1.4"
   },
